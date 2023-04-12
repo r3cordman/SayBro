@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063121816076",
+    "project_id": "saybro",
+    "storage_bucket": "saybro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063121816076:android:6b7482cd9c98d5c374bc29",
+        "android_client_info": {
+          "package_name": "com.example.saybro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063121816076-ruausm9q4ml271mf7udcaoh78bq7o659.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDARw8E-7SY7cqgyZH4-y4Q6trPgplwi_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063121816076-ruausm9q4ml271mf7udcaoh78bq7o659.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
